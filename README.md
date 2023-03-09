@@ -2,11 +2,17 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=F8F8FF&size=35&center=true&vCenter=true&width=1000&lines=Hello!+My+name+is+Raul+Silas;I'm+25+years+old;I'm+from+Brazil;I'm+Graduated+systems+development;Be+Welcome!+:%29)](https://git.io/typingsvg)
 
+<!--
+
 <div align="center">
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=raulsilas&show_icons=true&count_private=true&hide_border=true&title_color=F8F8FF&icon_color=A020F0&text_color=c9d1d9&bg_color=0d1117" alt="Raul Silas github stats" />
   
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raulsilas&layout=compact&hide_border=true&title_color=F8F8FF&icon_color=A020F0&text_color=c9d1d9&bg_color=0d1117"/>
+<img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raulsilas&layout=compact&hide_border=true&title_color=F8F8FF&icon_color=A020F0&text_color=c9d1d9&bg_color=0d1117"/>
 </div>
+
+-->
+
+<br />
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=RaulSilas&bg_color=000000&color=ffffff&line=a020f0&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
