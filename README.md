@@ -14,7 +14,9 @@
 
 <br />
 
+<!--
 [(https://github-readme-activity-graph.cyclic.app/graph?username=RaulSilas&bg_color=000000&color=ffffff&line=a020f0&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+-->
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=raulsilas&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
